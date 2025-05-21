@@ -1,0 +1,1 @@
+type *.csv>>all.csv
