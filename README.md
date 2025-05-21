@@ -27,7 +27,7 @@
 5. 旧版本升级为新版本（直接新版本的请忽略）的问题：请删除旧的`PROXYIP`变量，建立新的`PROXY_IP`变量后重试部署项目；`/panel`数据会清空，升级前注意备份数据；请在`/panel`面板里点击🔄重置默认值后，才能保存数据。
 
 ## IP优选工具的使用
-1. win 电脑下载 IP优选工具/[CF优选官方IP[win电脑版].7z]([https://github.com/Setout8/Book-Pen-Book/blob/main/IP%E4%BC%98%E9%80%89%E5%B7%A5%E5%85%B7/CF%E4%BC%98%E9%80%89%E5%AE%98%E6%96%B9IP%5Bwin%E7%94%B5%E8%84%91%E7%89%88%5D.7z](https://github.com/Onezyh/SUB-Panel/blob/mian/IP%E4%BC%98%E9%80%89%E5%B7%A5%E5%85%B7/CF%E4%BC%98%E9%80%89%E5%AE%98%E6%96%B9IP%5Bwin%E7%94%B5%E8%84%91%E7%89%88%5D.7z))，解压后，退出VPN，运行本软件。
+1. win 电脑下载 IP优选工具/[CF优选官方IP[win电脑版].7z](https://github.com/Onezyh/SUB-Panel/blob/mian/IP%E4%BC%98%E9%80%89%E5%B7%A5%E5%85%B7/CF%E4%BC%98%E9%80%89%E5%AE%98%E6%96%B9IP%5Bwin%E7%94%B5%E8%84%91%E7%89%88%5D.7z))，解压后，退出VPN，运行本软件。
 2. 下载[CloudflareScanner](https://github.com/bia-pain-bache/Cloudflare-Clean-IP-Scanner/releases/tag/v2.2.5)，解压后，退出VPN，运行本软件。
 
 # 特别感谢
