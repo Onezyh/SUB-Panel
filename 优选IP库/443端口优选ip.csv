@@ -1,0 +1,41 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+158.101.214.54,443,true,AMS,Europe,Amsterdam,160 ms,11499 kB/s
+141.144.204.204,443,true,FRA,Europe,Frankfurt,195 ms,10962 kB/s
+141.148.238.225,443,true,FRA,Europe,Frankfurt,160 ms,10922 kB/s
+158.180.231.216,443,true,MRS,Europe,Marseille,181 ms,10681 kB/s
+158.101.211.186,443,true,FRA,Europe,Frankfurt,175 ms,10505 kB/s
+144.21.56.198,443,true,FRA,Europe,Frankfurt,184 ms,9894 kB/s
+141.147.82.145,443,true,FRA,Europe,Frankfurt,200 ms,9763 kB/s
+138.2.9.167,443,true,LAX,North America,Los Angeles,177 ms,9657 kB/s
+132.226.134.154,443,true,FRA,Europe,Frankfurt,180 ms,9509 kB/s
+141.147.93.186,443,true,FRA,Europe,Frankfurt,182 ms,9350 kB/s
+132.145.94.80,443,true,ICN,Asia Pacific,Seoul,218 ms,8108 kB/s
+152.70.90.168,443,true,ICN,Asia Pacific,Seoul,219 ms,8101 kB/s
+129.154.207.203,443,true,ICN,Asia Pacific,Seoul,224 ms,8038 kB/s
+150.230.20.4,443,true,AMS,Europe,Amsterdam,187 ms,8018 kB/s
+129.159.202.83,443,true,FRA,Europe,Frankfurt,236 ms,7412 kB/s
+144.24.167.37,443,true,FRA,Europe,Frankfurt,234 ms,7315 kB/s
+141.144.232.247,443,true,FRA,Europe,Frankfurt,247 ms,7315 kB/s
+132.145.232.171,443,true,FRA,Europe,Frankfurt,224 ms,7204 kB/s
+129.159.13.58,443,true,FRA,Europe,Frankfurt,230 ms,7184 kB/s
+146.56.141.197,443,true,ICN,Asia Pacific,Seoul,207 ms,6782 kB/s
+192.9.227.116,443,true,LAX,North America,Los Angeles,265 ms,6459 kB/s
+138.2.23.135,443,true,SIN,Asia Pacific,Singapore,283 ms,6408 kB/s
+132.226.5.101,443,true,SIN,Asia Pacific,Singapore,269 ms,5940 kB/s
+158.180.89.217,443,true,SIN,Asia Pacific,Singapore,287 ms,5676 kB/s
+192.9.139.160,443,true,LAX,North America,Los Angeles,275 ms,4518 kB/s
+192.9.157.76,443,true,LAX,North America,Los Angeles,278 ms,1371 kB/s
+138.2.18.51,443,true,LAX,North America,Los Angeles,179 ms,38 kB/s
+168.138.13.201,443,true,MEL,Oceania,Melbourne,304 ms,2 kB/s
+132.145.81.117,443,true,ICN,Asia Pacific,Seoul,216 ms,0 kB/s
+144.24.140.37,443,true,HYD,Asia Pacific,Hyderabad,305 ms,0 kB/s
+141.147.188.152,443,true,LAX,North America,Los Angeles,185 ms,0 kB/s
+150.230.108.249,443,true,LAX,North America,Los Angeles,195 ms,0 kB/s
+132.226.7.1,443,true,LAX,North America,Los Angeles,185 ms,0 kB/s
+129.154.194.197,443,true,LAX,North America,Los Angeles,228 ms,0 kB/s
+150.136.87.192,443,true,IAD,North America,Ashburn,336 ms,0 kB/s
+158.101.83.70,443,true,LAX,North America,Los Angeles,194 ms,0 kB/s
+150.230.7.216,443,true,KIX,Asia Pacific,Osaka,207 ms,0 kB/s
+146.56.158.214,443,true,LAX,North America,Los Angeles,217 ms,0 kB/s
+144.24.90.107,443,true,ICN,Asia Pacific,Seoul,946 ms,0 kB/s
+146.56.40.227,443,true,LAX,North America,Los Angeles,230 ms,0 kB/s
